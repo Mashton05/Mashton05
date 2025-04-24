@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mick! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Mick! <br/><a href="https://github.com/Mashton05">IT Specialist</a>, <a href="https://www.linkedin.com/in/mickashtonit/">Cybersecurity Professional</a>, <a href="https://micklashton.wixsite.com/mick-l-ashton">Sales Specialist</a></h1>
 
 <h2>👨‍💻 Information Technology/Cybersecurity Projects:</h2>
 
