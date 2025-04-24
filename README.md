@@ -2,7 +2,7 @@
 <h2>👨‍💻 IT / Cybersecurity Projects:</h2>
 
 - <b>Home SOHO Network Design (NetDesign)</b>
-  - [Creating Network & Network Topology](https://mashton05.github.io/mashton.github.io/MOCK%20HOME%20NETWORK.png)
+  - [Creating Network & Network Topology](README.md)
 - <b>Active Directory Lab (VM Creation - Oracle Virtual Box, Active Directory, Powershell, Server 2019, Windows 10 )</b>
   - [Home Active Directory Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
