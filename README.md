@@ -2,7 +2,7 @@
 <h2>👨‍💻 IT / Cybersecurity Projects:</h2>
 
 - <b>Home SOHO Network Design (NetDesign)</b>
-  - [Creating SOHO Network with Topology](https://github.com/Mashton05/HomeNetworkProject/blob/97f5b0b50a4a4fdc8a5cb07899154b94b90d17ec/README.md)
+  - [Creating SOHO Network with Topology](https://github.com/Mashton05/SOHO-NETWORK)
 - <b>Active Directory Lab (VM Creation - Oracle Virtual Box, Active Directory, Powershell, Server 2019, Windows 10 )</b>
   - [Active Directory Lab](https://mashton05.github.io/ActiveDirectoryLab/) 
 - <b>PowerShell</b>
