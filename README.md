@@ -5,7 +5,7 @@
   - [Creating SOHO Network with Topology](https://github.com/Mashton05/SOHO-NETWORK)
 - <b>Active Directory Lab (VM Creation - Oracle Virtual Box, Active Directory, Powershell, Server 2019, Windows 10 )</b>
   - [Active Directory Lab](https://github.com/Mashton05/ActiveDirectoryLab)
-- <b>PowerShell</b>
+- <b>Azure SIEM</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
