@@ -5,11 +5,11 @@
   - [Creating SOHO Network with Topology](https://github.com/Mashton05/SOHO-NETWORK)
 - <b>Active Directory Lab (VM Creation - Oracle Virtual Box, Active Directory, Powershell, Server 2019, Windows 10 )</b>
   - [Active Directory Lab](https://github.com/Mashton05/ActiveDirectoryLab)
-- <b>Azure SIEM</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Nessus Essentials (Vulnerability Management)</b>
+  - [•	Installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts.](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [•	Implemented Vulnerability Management Function on sandbox networks: Discovered, Prioritized, Assessed, Reported, Remediated, Verified ](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [•	Conducted vulnerability assessments with Nessus; remediated vulnerabilities.](https://github.com/joshmadakor1/AD_PS)
+  - [•	Developed automated remediation process to preemptively deal with vulnerabilities stemming from Windows updates and third-party software.](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
