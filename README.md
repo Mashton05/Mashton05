@@ -10,10 +10,11 @@
   - [•	Implemented Vulnerability Mgmt. Function on sandbox networks: Discovered, Prioritized, Assessed, Reported, Remediated, Verified ](https://tinyurl.com/446ej997)
   - [•	Conducted vulnerability assessments with Nessus; remediated vulnerabilities.](https://tinyurl.com/2m59nvyc)
   - [•	Developed automated remediation process to preemptively deal with vulnerabilities utilizing Win updates & third-party software.](https://tinyurl.com/2xxc5a2f)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Threat Detection (Threat Detectiona and Security Monitoring Project with SPLUNK)</b>
+  - [Windows VM: Collects and forwards Windows Event Logs (e.g., login events, account lockouts).]()
+  - [Linux VM: Collects and forwards authentication logs (/var/log/auth.log).]()
+  - [pfSense Firewall: Logs firewall activity and forwards them to Splunk]()
+  - [Splunk: Centralized log management and analysis platform.]()
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
