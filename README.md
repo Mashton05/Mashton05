@@ -3,7 +3,7 @@
 
 - <b>Home SOHO Network Design (NetDesign)</b>
   - [Creating SOHO Network with Topology](https://github.com/Mashton05/SOHO-NETWORK)
-- <b>Active Directory Lab (VM Creation - Oracle Virtual Box, Active Directory, Powershell, Server 2019, Windows 10 )</b>
+- <b>Active Directory Lab (VM Creation - Oracle Virtual Box, Active Directory, Powershell, Server 2019, Windows 10)</b>
   - [Active Directory Lab](https://github.com/Mashton05/ActiveDirectoryLab)
 - <b>Nessus Essentials (Vulnerability Management)</b>
   - [•	Installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts.](https://github.com/Mashton05/Nessus-Vulnerability-Management)
