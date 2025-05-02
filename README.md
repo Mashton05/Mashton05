@@ -7,9 +7,9 @@
   - [Active Directory Lab](https://github.com/Mashton05/ActiveDirectoryLab)
 - <b>Nessus Essentials (Vulnerability Management)</b>
   - [•	Installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts.](https://tinyurl.com/28auszjs)
-  - [•	Implemented Vulnerability Management Function on sandbox networks: Discovered, Prioritized, Assessed, Reported, Remediated, Verified ](https://tinyurl.com/446ej997)
+  - [•	Implemented Vulnerability Mgmt. Function on sandbox networks: Discovered, Prioritized, Assessed, Reported, Remediated, Verified ](https://tinyurl.com/446ej997)
   - [•	Conducted vulnerability assessments with Nessus; remediated vulnerabilities.](https://tinyurl.com/2m59nvyc)
-  - [•	Developed automated remediation process to preemptively deal with vulnerabilities stemming from Windows updates and third-party software.](https://tinyurl.com/2xxc5a2f)
+  - [•	Developed automated remediation process to preemptively deal with vulnerabilities utilizing Win updates & third-party software.](https://tinyurl.com/2xxc5a2f)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
