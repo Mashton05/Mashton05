@@ -10,13 +10,12 @@
   - [•	Implemented Vulnerability Mgmt. Function on sandbox networks: Discovered, Prioritized, Assessed, Reported, Remediated, Verified ](https://tinyurl.com/446ej997)
   - [•	Conducted vulnerability assessments with Nessus; remediated vulnerabilities.](https://tinyurl.com/2m59nvyc)
   - [•	Developed automated remediation process to preemptively deal with vulnerabilities utilizing Win updates & third-party software.](https://tinyurl.com/2xxc5a2f)
-- <b>Threat Detection (Threat Detectiona and Security Monitoring Project with SPLUNK)</b>
-  - [Windows VM: Collects and forwards Windows Event Logs (e.g., login events, account lockouts).]()
-  - [Linux VM: Collects and forwards authentication logs (/var/log/auth.log).]()
-  - [pfSense Firewall: Logs firewall activity and forwards them to Splunk]()
-  - [Splunk: Centralized log management and analysis platform.]()
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Threat Detection (Threat Detectiona and Security Monitoring Project with Azure Sentinel) (SIEM)</b>
+  - [Use custom PowerShell script to extract metadata from Windows Event Viewer).]()
+  - [Configured Log Analytics Workspace in Azure to ingest custom logs containing geographic info.]()
+  - [Configured Custom Fields in Log Analytics Workspace with the intent of mapping geo data in Azure Sentinel()
+  - [Configured Azure Sentinel (Microsofts Cloud SIEM) workbook to display global attack data (RDP brute force).]()
+
 
 
 
