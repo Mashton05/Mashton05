@@ -6,7 +6,7 @@
 - <b>Active Directory Lab (VM Creation - Oracle Virtual Box, Active Directory, Powershell, Server 2019, Windows 10)</b>
   - [Active Directory Lab](https://github.com/Mashton05/ActiveDirectoryLab)
 - <b>Nessus Essentials (Vulnerability Management)</b>
-  - [•	Nessus Essentials Lab](https://github.com/Mashton05/Nessus-Vulnerability-Management)
+  - [Nessus Essentials Lab](https://github.com/Mashton05/Nessus-Vulnerability-Management)
 
 
 
