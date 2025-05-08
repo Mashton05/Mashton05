@@ -13,7 +13,7 @@
 - <b>Azure Sentinel Threat Detection (Threat Detectiona and Security Monitoring Project) (SIEM)</b>
   - [Use custom PowerShell script to extract metadata from Windows Event Viewer).]()
   - [Configured Log Analytics Workspace in Azure to ingest custom logs containing geographic info.]()
-  - [Configured Custom Fields in Log Analytics Workspace with the intent of mapping geo data in Azure Sentinel()
+  - [Configured Custom Fields in Log Analytics Workspace with the intent of mapping geo data in Azure Sentinel]()
   - [Configured Azure Sentinel (Microsofts Cloud SIEM) workbook to display global attack data (RDP brute force).]()
 
 
