@@ -6,10 +6,7 @@
 - <b>Active Directory Lab (VM Creation - Oracle Virtual Box, Active Directory, Powershell, Server 2019, Windows 10)</b>
   - [Active Directory Lab](https://github.com/Mashton05/ActiveDirectoryLab)
 - <b>Nessus Essentials (Vulnerability Management)</b>
-  - [•	Installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts.](https://tinyurl.com/28auszjs)
-  - [•	Implemented Vulnerability Mgmt. Function on sandbox networks: Discovered, Prioritized, Assessed, Reported, Remediated, Verified ](https://tinyurl.com/446ej997)
-  - [•	Conducted vulnerability assessments with Nessus; remediated vulnerabilities.](https://tinyurl.com/2m59nvyc)
-  - [•	Developed automated remediation process to preemptively deal with vulnerabilities utilizing Win updates & third-party software.](https://tinyurl.com/2xxc5a2f)
+  - [•	Nessus Essentials Lab](https://github.com/Mashton05/Nessus-Vulnerability-Management)
 
 
 
