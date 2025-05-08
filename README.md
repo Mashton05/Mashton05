@@ -10,7 +10,7 @@
   - [•	Implemented Vulnerability Mgmt. Function on sandbox networks: Discovered, Prioritized, Assessed, Reported, Remediated, Verified ](https://tinyurl.com/446ej997)
   - [•	Conducted vulnerability assessments with Nessus; remediated vulnerabilities.](https://tinyurl.com/2m59nvyc)
   - [•	Developed automated remediation process to preemptively deal with vulnerabilities utilizing Win updates & third-party software.](https://tinyurl.com/2xxc5a2f)
-- <b>Threat Detection (Threat Detectiona and Security Monitoring Project with Azure Sentinel) (SIEM)</b>
+- <b>Azure Sentinel Threat Detection (Threat Detectiona and Security Monitoring Project) (SIEM)</b>
   - [Use custom PowerShell script to extract metadata from Windows Event Viewer).]()
   - [Configured Log Analytics Workspace in Azure to ingest custom logs containing geographic info.]()
   - [Configured Custom Fields in Log Analytics Workspace with the intent of mapping geo data in Azure Sentinel()
