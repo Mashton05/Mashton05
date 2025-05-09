@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mick! <br/><a href="https://github.com/Mashton05">IT Specialist</a>, <a href="https://www.linkedin.com/in/mickashtonit/">Cybersecurity Professional</a>
+<h1>Hi, I'm Mick! <br/><a href="https://i.imgur.com/isNzE0k.png">IT Specialist</a>, <a href="https://www.linkedin.com/in/mickashtonit/">Cybersecurity Professional</a>
 <h2>👨‍💻 IT / Cybersecurity Projects:</h2>
 
 - <b>Home SOHO Network Design (NetDesign)</b>
