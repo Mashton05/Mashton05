@@ -7,7 +7,6 @@
   - [Active Directory Project](https://github.com/Mashton05/ActiveDirectoryLab)
 - <b>Nessus Essentials (Vulnerability Management)</b>
   - [Nessus Essentials Project](https://github.com/Mashton05/Nessus-Vulnerability-Management)
-- <b>Nessus Essentials (Vulnerability Management)</b>
 
 
 
